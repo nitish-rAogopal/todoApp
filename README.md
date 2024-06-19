@@ -75,3 +75,6 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 Name : Nitish Kumar
 nitsh.raogoapal@gmail.com | https://github.com/nitish-rAogopal<br>
 Project link: https://github.com/nitish-rAogopal/todoApp
+
+## License
+Distributed under the MIT License. See LICENSE for more information.
