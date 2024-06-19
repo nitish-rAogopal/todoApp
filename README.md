@@ -26,7 +26,7 @@ Welcome to the To-Do List Application! This is a simple, beautiful, and interact
 
 2. **Navigate to the project directory:**
     ```sh
-    cd tpoApp
+    cd todoApp
 ## Usage
 1. **Open index.html in your browser:**
 
@@ -43,7 +43,8 @@ Welcome to the To-Do List Application! This is a simple, beautiful, and interact
 - Click the "Remove" button next to a task to delete it.
 
 ## File Structure
-    ```sh
+
+```sh
     todoApp/
     |-- index.html     
     |-- app.js         
@@ -64,13 +65,13 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 5. **Push to the branch:**
     ```sh
     git push origin feature-name
-6. Create a pull request
+6. **Create a pull request**
 
 ## Acknowledgement
 
 - AngularJS
 
 ## Contact
-Name : Nitish Kumar<br>
-nitsh.raogoapal@gmail.com | https://github.com/nitish-rAogopal
+Name : Nitish Kumar
+nitsh.raogoapal@gmail.com | https://github.com/nitish-rAogopal<br>
 Project link: https://github.com/nitish-rAogopal/todoApp
