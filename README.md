@@ -44,13 +44,14 @@ Welcome to the To-Do List Application! This is a simple, beautiful, and interact
 
 ## File Structure
 
-```sh
+    ```sh
     todoApp/
     |-- index.html     
     |-- app.js         
     |-- style.css      
     |-- README.md  
-    
+
+   
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or new features, please create an issue or submit a pull request.
