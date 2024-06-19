@@ -30,7 +30,7 @@ Welcome to the To-Do List Application! This is a simple, beautiful, and interact
 ## Usage
 1. **Open index.html in your browser:**
 
-- Simply double-click the <tt>index.html<</tt> file, or open it with your preferred web browser.
+- Simply double-click the <tt>index.html</tt> file, or open it with your preferred web browser.
 2. **Add a new task:**
 
 - Click on the "Add New Task" button to open the modal dialog.
@@ -44,7 +44,6 @@ Welcome to the To-Do List Application! This is a simple, beautiful, and interact
 
 ## File Structure
 
-    ```sh
     todoApp/
     |-- index.html     
     |-- app.js         
