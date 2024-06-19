@@ -74,3 +74,9 @@ li button:hover {
 li input[type="checkbox"] {
     margin-right: 10px;
 }
+
+.error {
+    color: red;
+    text-align: center;
+    margin-bottom: 20px;
+}
