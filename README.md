@@ -12,10 +12,65 @@ Welcome to the To-Do List Application! This is a simple, beautiful, and interact
 
 ## Demo
 
-![To-Do List Demo](screenshot.png)
+![To-Do List Demo](/assets/screen1.PNG)
+![To-Do List Demo](/assets/screen2.PNG)
+![To-Do List Demo](/assets/screen3.PNG)
+![To-Do List Demo](/assets/screen4.PNG)
+
 
 ## Installation
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/nitish-rAogopal/todoApp.git
+
+2. **Navigate to the project directory:**
+    ```sh
+    cd tpoApp
+## Usage
+1. **Open index.html in your browser:**
+
+- Simply double-click the <tt>index.html<</tt> file, or open it with your preferred web browser.
+2. **Add a new task:**
+
+- Click on the "Add New Task" button to open the modal dialog.
+- Enter the task description and click "Add Task".
+**Mark a task as done:**
+
+- Check the checkbox next to a task to mark it as done.
+**Remove a task:**
+
+- Click the "Remove" button next to a task to delete it.
+
+## File Structure
+    ```sh
+    todoApp/
+    |-- index.html     
+    |-- app.js         
+    |-- style.css      
+    |-- README.md  
+    
+## Contributing
+
+Contributions are welcome! If you have suggestions for improvements or new features, please create an issue or submit a pull request.
+1. **Fork the repository**
+2. **Create a new branch:**
+    ```sh
+    git checkout -b feature-name
+3. **Make your changes**
+4. **Commit your changes:**
+    ```sh
+    git commit -m 'Add some feature'
+5. **Push to the branch:**
+    ```sh
+    git push origin feature-name
+6. Create a pull request
+
+## Acknowledgement
+
+- AngularJS
+
+## Contact
+Name : Nitish Kumar<br>
+nitsh.raogoapal@gmail.com | https://github.com/nitish-rAogopal
+Project link: https://github.com/nitish-rAogopal/todoApp
