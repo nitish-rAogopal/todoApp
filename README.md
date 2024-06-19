@@ -31,25 +31,34 @@ Welcome to the To-Do List Application! This is a simple, beautiful, and interact
 1. **Open index.html in your browser:**
 
 - Simply double-click the <tt>index.html</tt> file, or open it with your preferred web browser.
+
 2. **Add a new task:**
 
 - Click on the "Add New Task" button to open the modal dialog.
 - Enter the task description and click "Add Task".
-**Mark a task as done:**
 
+3. **Mark a task as done:**
 - Check the checkbox next to a task to mark it as done.
-**Remove a task:**
+
+4. **Remove a task:**
 
 - Click the "Remove" button next to a task to delete it.
 
 ## File Structure
 
+   ```
     todoApp/
-    |-- index.html     
-    |-- app.js         
-    |-- style.css      
-    |-- README.md  
-
+    ├── Assets
+       ├── screen1.PNG
+       ├── screen2.PNG
+       ├── screen3.PNG
+       └── screen4.PNG       
+    ├── index.html     
+    ├── app.js         
+    ├── style.css      
+    ├── README.md
+    └── LICENSE.txt
+   ```
    
 ## Contributing
 
